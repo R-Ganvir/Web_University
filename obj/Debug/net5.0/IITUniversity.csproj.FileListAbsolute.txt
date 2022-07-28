@@ -1,0 +1,322 @@
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\appsettings.Development.json
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\appsettings.json
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\IITUniversity.exe
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\IITUniversity.deps.json
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\IITUniversity.runtimeconfig.json
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\IITUniversity.runtimeconfig.dev.json
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\IITUniversity.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\IITUniversity.pdb
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\IITUniversity.Views.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\IITUniversity.Views.pdb
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.csproj.AssemblyReference.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.GeneratedMSBuildEditorConfig.editorconfig
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.AssemblyInfoInputs.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.AssemblyInfo.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.csproj.CoreCompileInputs.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.MvcApplicationPartsAssemblyInfo.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorAssemblyInfo.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorAssemblyInfo.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\scopedcss\bundle\IITUniversity.styles.css
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\staticwebassets\IITUniversity.StaticWebAssets.Manifest.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.TagHelpers.input.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.TagHelpers.output.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorCoreGenerate.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorTargetAssemblyInfo.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorTargetAssemblyInfo.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.Views.pdb
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\refint\IITUniversity.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.pdb
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.genruntimeconfig.cache
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\ref\IITUniversity.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\IITUniversity.csproj.CopyComplete
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Humanizer.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Delete.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Details.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Edit.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Index.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Create.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Delete.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Details.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Edit.cshtml.g.cs
+E:\GreatLearning\EntityFramework\WEBAPI\DBFirstApproach\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Index.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\appsettings.Development.json
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\appsettings.json
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\IITUniversity.exe
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\IITUniversity.deps.json
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\IITUniversity.runtimeconfig.json
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\IITUniversity.runtimeconfig.dev.json
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\IITUniversity.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\IITUniversity.pdb
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\IITUniversity.Views.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\IITUniversity.Views.pdb
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Humanizer.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.csproj.AssemblyReference.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.GeneratedMSBuildEditorConfig.editorconfig
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.AssemblyInfoInputs.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.AssemblyInfo.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.csproj.CoreCompileInputs.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.MvcApplicationPartsAssemblyInfo.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorAssemblyInfo.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorAssemblyInfo.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\scopedcss\bundle\IITUniversity.styles.css
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\staticwebassets\IITUniversity.StaticWebAssets.Manifest.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.TagHelpers.input.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.TagHelpers.output.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorCoreGenerate.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Delete.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Details.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Edit.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Courses\Index.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Create.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Delete.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Details.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Edit.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Enrollments\Index.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorTargetAssemblyInfo.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.RazorTargetAssemblyInfo.cs
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.Views.pdb
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.csproj.CopyComplete
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\refint\IITUniversity.dll
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.pdb
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\IITUniversity.genruntimeconfig.cache
+F:\greatlearning\Youtube_Learning\GR project\IITUniversity\obj\Debug\net5.0\ref\IITUniversity.dll
